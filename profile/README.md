@@ -1,6 +1,6 @@
 ## SEAHAB
 
-![An Overview Image of algal blooms](https://github.com/SEAHAB/.github/blob/main/profile/bloom.jpg?raw=true)
+![An Overview Image of algal blooms](https://github.com/SEAHAB/.github/blob/main/profile/bloom.png?raw=true)
 
 ### Objectives
 
